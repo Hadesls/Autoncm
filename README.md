@@ -1,9 +1,13 @@
-![image](https://github.com/user-attachments/assets/732836f5-b3a6-46b7-b883-0cf3a881dc31)# 具有GUI界面的ncm转flac\mp3格式工具：Autoncm
+# 具有GUI界面的ncm转flac\mp3格式工具：Autoncm
 
 使用本程序可将下载的网易云音乐VIP下载的文件（ncm）转换为 mp3 或 flac 格式，纯Python编写。也可以自行转换为exe。
 ui界面采用flet的UI库。
 # 使用 Python格式
-需要配置Python环境，
+需要配置Python环境。安装下面所需依赖：
+```python
+pip install flet
+pip install ncmdump
+```
 
 
 
