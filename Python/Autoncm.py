@@ -5,7 +5,6 @@ from ncmdump import dump
 from tkinter import Tk
 from tkinter.filedialog import askdirectory
 
-
 class NCMConverterApp:
     def __init__(self):
         # 动态获取当前用户的桌面路径
